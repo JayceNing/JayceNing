@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Welcome!
+Welcome! I'm Jayce Ning.
 
-I'm Jayce Ning.
+![](./img/Jayce.png)
 
 <p>
   <a href="https://github.com/JayceNing">
@@ -25,7 +25,17 @@ I'm Jayce Ning.
 * 🎓 I'm currently studying for a master's degree in **Beijing University of Posts and Telecommunications**.
 * 🤖 Interested in **AGI**, **LLM** and **embodied AI**.
 
-<h2>GitHub Stats</h2>
+## Recent Study
+
+- **DGoT: Dynamic Graph of Thoughts for Scientific Abstract Generation.** [[paper]](https://www.semanticscholar.org/paper/Optimization-of-VR-Video-Wireless-Transmission-on-Ning-Tian/9bd825697f88e82aeeba0da590090c9f04166a14])[[code]](https://www.semanticscholar.org/paper/DGoT%3A-Dynamic-Graph-of-Thoughts-for-Scientific-Ning-Zhao/3ec6428566b0e5340fe71abf23ffeae6bf03affb)
+  <br>**Xinyu Ning**, Yutong Zhao, Yitong Liu*, Hongwen Yang.
+  <br>*The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (**LREC-COLING 2024**) 2024*.
+  
+- **Optimization of VR Video Wireless Transmission Based on Fountain Code.** [[paper]](https://www.semanticscholar.org/paper/Optimization-of-VR-Video-Wireless-Transmission-on-Ning-Tian/9bd825697f88e82aeeba0da590090c9f04166a14)
+  <br>**Xinyu Ning**, Kaicong Tian, Yun Shen, Yitong Liu*, Hongwen Yang.
+  <br>*IEEE international Symposium on Broadband Multimedia Systems and Broadcasting (**BMSB**) 2023*.
+
+## GitHub Stats
 <p><img src="https://github-readme-stats.vercel.app/api?username=JayceNing&amp;show_icons=true" alt="GitHub Stats"></p>
 
 
