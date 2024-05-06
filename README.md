@@ -27,7 +27,7 @@ Welcome! I'm Jayce Ning.
 
 ## Recent Study
 
-- **DGoT: Dynamic Graph of Thoughts for Scientific Abstract Generation.** [[paper]](https://www.semanticscholar.org/paper/Optimization-of-VR-Video-Wireless-Transmission-on-Ning-Tian/9bd825697f88e82aeeba0da590090c9f04166a14])[[code]](https://www.semanticscholar.org/paper/DGoT%3A-Dynamic-Graph-of-Thoughts-for-Scientific-Ning-Zhao/3ec6428566b0e5340fe71abf23ffeae6bf03affb)
+- **DGoT: Dynamic Graph of Thoughts for Scientific Abstract Generation.** [[paper]](https://www.semanticscholar.org/paper/DGoT%3A-Dynamic-Graph-of-Thoughts-for-Scientific-Ning-Zhao/3ec6428566b0e5340fe71abf23ffeae6bf03affb) [[code]](https://github.com/JayceNing/DGoT)
   <br>**Xinyu Ning**, Yutong Zhao, Yitong Liu*, Hongwen Yang.
   <br>*The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (**LREC-COLING 2024**) 2024*.
   
