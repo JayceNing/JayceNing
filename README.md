@@ -30,6 +30,10 @@ Welcome! I'm Jayce Ning.
 - **DGoT: Dynamic Graph of Thoughts for Scientific Abstract Generation.** [[paper]](https://www.semanticscholar.org/paper/DGoT%3A-Dynamic-Graph-of-Thoughts-for-Scientific-Ning-Zhao/3ec6428566b0e5340fe71abf23ffeae6bf03affb) [[code]](https://github.com/JayceNing/DGoT)
   <br>**Xinyu Ning**, Yutong Zhao, Yitong Liu*, Hongwen Yang.
   <br>*The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (**LREC-COLING 2024**) 2024*.
+
+- **STSR: A Satellite-Tailored Segment Routing Method for Efficient Space Communication.** [[paper]](https://www.semanticscholar.org/paper/STSR%3A-A-Satellite-Tailored-Segment-Routing-Method-Zhao-Wu/48d3484ba487be7923145148804fcd48b173a552)
+  <br>Yutong Zhao, Weihong Wu, **Xinyu Ning**, Yunyi Tang, Sijia Li, Chicheng Qin, Jiang Liu.
+  <br>*2024 IEEE Wireless Communications and Networking Conference (**WCNC**) 2024*.
   
 - **Optimization of VR Video Wireless Transmission Based on Fountain Code.** [[paper]](https://www.semanticscholar.org/paper/Optimization-of-VR-Video-Wireless-Transmission-on-Ning-Tian/9bd825697f88e82aeeba0da590090c9f04166a14)
   <br>**Xinyu Ning**, Kaicong Tian, Yun Shen, Yitong Liu*, Hongwen Yang.
