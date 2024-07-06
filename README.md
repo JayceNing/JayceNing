@@ -39,6 +39,11 @@ Welcome! I'm Jayce Ning.
   <br>**Xinyu Ning**, Kaicong Tian, Yun Shen, Yitong Liu*, Hongwen Yang.
   <br>*IEEE international Symposium on Broadband Multimedia Systems and Broadcasting (**BMSB**) 2023*.
 
+## Projects Showcase
+
+- **ChatBrain AI Academic Assistant**
+
+
 ## GitHub Stats
 <p><img src="https://github-readme-stats.vercel.app/api?username=JayceNing&amp;show_icons=true" alt="GitHub Stats"></p>
 
