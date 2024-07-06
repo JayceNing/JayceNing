@@ -41,8 +41,63 @@ Welcome! I'm Jayce Ning.
 
 ## Projects Showcase
 
-- **ChatBrain AI Academic Assistant**
+### ChatBrain AI Academic Assistant
+AI Academic Platform Based on Large Language Models.
 
+**Features**
+* **Paper Database Plus**: Automatically Summarize and Save Arxiv Papers.
+* **Data Analysis**: Analyze Data in the Database and Draw Charts.
+* **Review Generation**: Automatically Generate Reviews in Specific Fields.
+
+Details can be found on [ChatBrain](https://github.com/JayceNing/ChatBrain).
+
+![](./img/chatbrain.gif)
+
+### AI Training Platform
+AI Training Frontend and Backend System Based on Kubernetes.
+
+(Basic Functionality AI Training Platform Modeled after ***Huawei ModelArts*** or ***Baidu EasyDL*** Platform)
+
+**Features**
+* **User-Friendly Operation**: Web-based Interaction, Supporting Environment(Image) and Model Storage, One-Click Training, Online Programming Based on Jupyter, and Result Visualization, and More.
+* **Developed based on Kubernetes**: Container-based Resource Scheduling, Support for Multi-node and Multi-GPU/NPU Configurations. Pre-installed with Various Common Environments.
+
+![](./img/AI_Platform.gif)
+
+### Android, HarmonyOS, or WeChat Mini Program Development
+
+<details>
+  <summary>Campus Waste Sorting Android App <a href="https://github.com/JayceNing/AndroidApp_Fenleiyouwo">AndroidApp_Fenleiyouwo</a></summary>
+  <br>
+  <img src="./img/Fenleiyouwo_Android.png" alt="">
+</details>
+
+
+<details>
+  <summary>Rural Courier Service Mini Program <a href="https://github.com/JayceNing/WechatMiniProgram_GongYou">WechatMiniProgram_GongYou</a></summary>
+  <br>
+  <img src="./img/Gongyou.png" alt="">
+</details>
+
+<details>
+  <summary>Campus Waste Sorting Mini Program <a href="https://github.com/JayceNing/WechatMiniProgram_FenLeiYouWoCampus">WechatMiniProgram_FenLeiYouWoCampus</a></summary>
+  <br>
+  <img src="./img/Fenleiyouwo_Mini_1.png" alt="">
+  <br>
+  <img src="./img/Fenleiyouwo_Mini_2.png" alt="">
+</details>
+
+<details>
+  <summary>Bird Science Popularization Mini Program <a href="https://github.com/JayceNing/WechatMiniProgram_ZhiHui">WechatMiniProgram_ZhiHui</a></summary>
+  <br>
+  <img src="./img/Zhihui.png" alt="">
+</details>
+
+<details>
+  <summary>HarmonyOS Fan Control <a href="https://github.com/JayceNing/Harmony_APP_Smart_Fan">Harmony_APP_Smart_Fan</a></summary>
+  <br>
+  <img src="./img/Harmony_APP_Smart_Fan.png" alt="">
+</details>
 
 ## GitHub Stats
 <p><img src="https://github-readme-stats.vercel.app/api?username=JayceNing&amp;show_icons=true" alt="GitHub Stats"></p>
