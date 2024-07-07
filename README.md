@@ -128,7 +128,7 @@ The **First Prize** 🥇 and **National Champion** 🏆 in the National Finals o
 
 <img src="./img/Datang_cup_2.jpg" alt="description" height="220"/><img src="./img/Datang_cup_3.jpg" alt="description" height="220"/><img src="./img/Datang_cup_1.jpg" alt="description" height="220"/>
 
-### ✨ AI Creative Group (Baudu 2022)
+### ✨ AI Creative Group (Baidu 2022)
 **Third Prize** 🥉 in **Baidu Cognitive AI Creative Competition** - Creative Development Group.
 
 <video controls>
