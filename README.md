@@ -4,6 +4,12 @@ Welcome! I'm Jayce Ning.
 
 ![](./img/Jayce.png)
 
+<div style="font-size: 1.0rem;">
+  <a href="./README.md">English</a> |
+  <a href="./README_zh.md">中文</a>
+</div>
+<br>
+
 <p>
   <a href="https://github.com/JayceNing">
     <img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" height=25>
@@ -25,7 +31,9 @@ Welcome! I'm Jayce Ning.
 * 🎓 I'm currently studying for a master's degree in **Beijing University of Posts and Telecommunications**.
 * 🤖 Interested in **AGI**, **LLM** and **embodied AI**.
 
-## Recent Study
+You can also visit my blog at [HewWorkshop](https://jaycening.github.io/).
+
+## 📑 Recent Study
 
 - **DGoT: Dynamic Graph of Thoughts for Scientific Abstract Generation.** [[paper]](https://www.semanticscholar.org/paper/DGoT%3A-Dynamic-Graph-of-Thoughts-for-Scientific-Ning-Zhao/3ec6428566b0e5340fe71abf23ffeae6bf03affb) [[code]](https://github.com/JayceNing/DGoT)
   <br>**Xinyu Ning**, Yutong Zhao, Yitong Liu*, Hongwen Yang.
@@ -39,9 +47,9 @@ Welcome! I'm Jayce Ning.
   <br>**Xinyu Ning**, Kaicong Tian, Yun Shen, Yitong Liu*, Hongwen Yang.
   <br>*IEEE international Symposium on Broadband Multimedia Systems and Broadcasting (**BMSB**) 2023*.
 
-## Projects Showcase
+## 🚀 Projects Showcase
 
-### ChatBrain AI Academic Assistant
+### 💡 ChatBrain AI Academic Assistant
 AI Academic Platform Based on Large Language Models.
 
 **Features**
@@ -53,7 +61,7 @@ Details can be found on [ChatBrain](https://github.com/JayceNing/ChatBrain).
 
 ![](./img/chatbrain.gif)
 
-### AI Training Platform
+### 💡 AI Training Platform
 AI Training Frontend and Backend System Based on Kubernetes.
 
 (Basic Functionality AI Training Platform Modeled after ***Huawei ModelArts*** or ***Baidu EasyDL*** Platform)
@@ -64,7 +72,7 @@ AI Training Frontend and Backend System Based on Kubernetes.
 
 ![](./img/AI_Platform.gif)
 
-### Android, HarmonyOS, or WeChat Mini Program Development
+### 💡 Android, HarmonyOS, or WeChat Mini Program Development
 
 <details>
   <summary>Campus Waste Sorting Android App <a href="https://github.com/JayceNing/AndroidApp_Fenleiyouwo">AndroidApp_Fenleiyouwo</a></summary>
@@ -99,9 +107,50 @@ AI Training Frontend and Backend System Based on Kubernetes.
   <img src="./img/Harmony_APP_Smart_Fan.png" alt="">
 </details>
 
+## 🏆 Awards and Honors
+### ✨ Internet+ Competition (2023)
+
+The **First Prize** 🥇 in the Beijing Division of the **9th China International "Internet+" University Students Innovation and Entrepreneurship Competition**.
+
+<img src="./img/Internet_plus.png" alt="description" height="300"/>
+<img src="./img/Internet_plus_product.gif" alt="description" height="300"/>
+
+### ✨ CICAS (2023)
+The **First Prize** 🥇 in the Seed Group of the **2023 First China’s Innovation Challenge on Artificial Intelligence Application Scene (CICAS2023)**.
+
+* 🥇 Rank < 28/2432
+
+<img src="./img/CICAS.png" alt="description" height="300"/>
+<img src="./img/qiwu_1.gif" alt="description" height="300"/>
+
+### ✨ Datang Cup (2022)
+The **First Prize** 🥇 and **National Champion** 🏆 in the National Finals of **the 9th "Datang Cup" National College Student Mobile Communication 5G Technology Competition**.
+
+* 🥇 Rank 1/25000+
+
+<img src="./img/Datang_cup_2.jpg" alt="description" height="220"/>
+<img src="./img/Datang_cup_3.jpg" alt="description" height="220"/>
+<img src="./img/Datang_cup_1.jpg" alt="description" height="220"/>
+
+### ✨ AI Creative Group (Baudu 2022)
+**Third Prize** 🥉 in **Baidu Cognitive AI Creative Competition** - Creative Development Group.
+
+<video controls>
+  <source src="./video/Baidu_meta.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+* See the list of [winners](https://nlp.baidu.com/AIPai/WinList).
+
+* My photo 📸 appeared in **one of the top three AI Chinese magazines** : **量子位 QbitAI**. See the coverage in [QbitAI](https://mp.weixin.qq.com/s/-JSayfnewZ4zBSBTTnNdig).
+
+<img src="./img/Baidu_1.jpg" alt="description" height="170"/>
+<img src="./img/Baidu_2.jpg" alt="description" height="170"/>
+<img src="./img/Baidu_3.jpg" alt="description" height="170"/>
+
+
 ## GitHub Stats
 <p><img src="https://github-readme-stats.vercel.app/api?username=JayceNing&amp;show_icons=true" alt="GitHub Stats"></p>
-
 
 
 <!--
