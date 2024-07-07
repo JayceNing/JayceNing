@@ -112,25 +112,21 @@ AI Training Frontend and Backend System Based on Kubernetes.
 
 The **First Prize** 🥇 in the Beijing Division of the **9th China International "Internet+" University Students Innovation and Entrepreneurship Competition**.
 
-<img src="./img/Internet_plus.png" alt="description" height="300"/>
-<img src="./img/Internet_plus_product.gif" alt="description" height="300"/>
+<img src="./img/Internet_plus.png" alt="description" height="300"/><img src="./img/Internet_plus_product.gif" alt="description" height="300"/>
 
 ### ✨ CICAS (2023)
 The **First Prize** 🥇 in the Seed Group of the **2023 First China’s Innovation Challenge on Artificial Intelligence Application Scene (CICAS2023)**.
 
 * 🥇 Rank < 28/2432
 
-<img src="./img/CICAS.png" alt="description" height="300"/>
-<img src="./img/qiwu_1.gif" alt="description" height="300"/>
+<img src="./img/CICAS.png" alt="description" height="300"/><img src="./img/qiwu_1.gif" alt="description" height="300"/>
 
 ### ✨ Datang Cup (2022)
 The **First Prize** 🥇 and **National Champion** 🏆 in the National Finals of **the 9th "Datang Cup" National College Student Mobile Communication 5G Technology Competition**.
 
 * 🥇 Rank 1/25000+
 
-<img src="./img/Datang_cup_2.jpg" alt="description" height="220"/>
-<img src="./img/Datang_cup_3.jpg" alt="description" height="220"/>
-<img src="./img/Datang_cup_1.jpg" alt="description" height="220"/>
+<img src="./img/Datang_cup_2.jpg" alt="description" height="220"/><img src="./img/Datang_cup_3.jpg" alt="description" height="220"/><img src="./img/Datang_cup_1.jpg" alt="description" height="220"/>
 
 ### ✨ AI Creative Group (Baudu 2022)
 **Third Prize** 🥉 in **Baidu Cognitive AI Creative Competition** - Creative Development Group.
@@ -144,9 +140,7 @@ The **First Prize** 🥇 and **National Champion** 🏆 in the National Finals o
 
 * My photo 📸 appeared in **one of the top three AI Chinese magazines** : **量子位 QbitAI**. See the coverage in [QbitAI](https://mp.weixin.qq.com/s/-JSayfnewZ4zBSBTTnNdig).
 
-<img src="./img/Baidu_1.jpg" alt="description" height="170"/>
-<img src="./img/Baidu_2.jpg" alt="description" height="170"/>
-<img src="./img/Baidu_3.jpg" alt="description" height="170"/>
+<img src="./img/Baidu_1.jpg" alt="description" height="170"/><img src="./img/Baidu_2.jpg" alt="description" height="170"/><img src="./img/Baidu_3.jpg" alt="description" height="170"/>
 
 
 ## GitHub Stats
