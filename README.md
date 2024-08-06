@@ -35,6 +35,10 @@ You can also visit my blog at [HewWorkshop](https://jaycening.github.io/).
 
 ## 📑 Recent Study
 
+- **Augmenting Channel Simulator and Semi-Supervised Learning for Efficient Indoor Positioning.** [[paper]](https://arxiv.org/abs/2408.00429)
+  <br>Yupeng Li, **Xinyu Ning**, Shijian Gao, Yitong Liu, Zhi Sun, Qixing Wang, Jiangzhou Wang.
+  <br>*ACCEPTED for presentation at 2024 IEEE Global Communications Conference*.
+  
 - **DGoT: Dynamic Graph of Thoughts for Scientific Abstract Generation.** [[paper]](https://www.semanticscholar.org/paper/DGoT%3A-Dynamic-Graph-of-Thoughts-for-Scientific-Ning-Zhao/3ec6428566b0e5340fe71abf23ffeae6bf03affb) [[code]](https://github.com/JayceNing/DGoT)
   <br>**Xinyu Ning**, Yutong Zhao, Yitong Liu*, Hongwen Yang.
   <br>*The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (**LREC-COLING 2024**) 2024*.
