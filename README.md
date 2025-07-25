@@ -28,10 +28,13 @@ Welcome! I'm Jayce Ning.
   </a>
 </p>
 
-* 🎓 I'm currently studying for a master's degree in **Beijing University of Posts and Telecommunications**.
+* 🎓 Graduated from **Beijing University of Posts and Telecommunications**, with a master's degree.
 * 🤖 Interested in **AGI**, **LLM** and **embodied AI**.
+* Currently serving as the **CTO** of **inspireomni.ai**.
 
 You can also visit my blog at [HewWorkshop](https://jaycening.github.io/).
+
+![](./img/LOGO4.png)
 
 ## 📑 Recent Study
 
